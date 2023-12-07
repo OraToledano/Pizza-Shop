@@ -1,0 +1,17 @@
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+H:\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.deps.json
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\refint\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\modelsLib\obj\Debug\net6.0\ref\modelsLib.dll

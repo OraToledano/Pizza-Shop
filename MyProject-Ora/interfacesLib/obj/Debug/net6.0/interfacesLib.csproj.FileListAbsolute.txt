@@ -1,0 +1,20 @@
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+H:\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.deps.json
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.csproj.CopyComplete
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\refint\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\interfacesLib\obj\Debug\net6.0\ref\interfacesLib.dll

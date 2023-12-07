@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza Shop Ora</title>
+</head>
+<style>
+    body{
+        background-color: pink;
+    }
+    h1{
+        font-size: 50px;
+        text-align: center;
+    }
+    .btn{
+        background-color: rgb(255, 0, 217);
+        height: 50px;
+        width: 70px;
+        border-radius: 10px;
+    }
+    table{
+        position: absolute;
+        right: 20%;
+        /* border: 3px black solid; */
+        font-size: 40px;
+    }
+    tr{
+        border: 3px black solid;
+        padding: 10px;
+        background-color: coral;
+    }
+    td{
+        border: 3px black solid;
+        padding: 10px;
+        background-color: coral;
+    }
+    #getId{
+        font-size: 35px;
+    }
+</style>
+
+<body>
+    <h1>Wellcom to my Pizza Shop!!</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>IS gluten Free</th>
+                    <th>Price</th>
+                    <th>Id</th>
+
+                </tr>
+            </thead>
+            <tbody id="pizzatbody">
+               
+            </tbody>
+        </table>
+        <br>
+  <button onclick="Get()">get all pizzas</button>
+  <button onclick="GetId()">get pizza by id</button>
+  <button onclick="Put()">update a pizza</button>
+  <button onclick="Post()">create a pizza</button>
+  <button onclick="Delete()">delete a pizzas</button>
+  <br>
+  <div id="getId"></div>
+    </body> 
+    <script src="./js/site.js" asp-append-version="true"></script>
+</body>
+</html>

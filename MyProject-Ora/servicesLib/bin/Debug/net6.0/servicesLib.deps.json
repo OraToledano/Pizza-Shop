@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "servicesLib/1.0.0": {
+        "dependencies": {
+          "FileService": "1.0.0",
+          "interfacesLib": "1.0.0",
+          "modelsLib": "1.0.0"
+        },
+        "runtime": {
+          "servicesLib.dll": {}
+        }
+      },
+      "FileService/1.0.0": {
+        "runtime": {
+          "FileService.dll": {}
+        }
+      },
+      "interfacesLib/1.0.0": {
+        "dependencies": {
+          "modelsLib": "1.0.0"
+        },
+        "runtime": {
+          "interfacesLib.dll": {}
+        }
+      },
+      "modelsLib/1.0.0": {
+        "runtime": {
+          "modelsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "servicesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "interfacesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "modelsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

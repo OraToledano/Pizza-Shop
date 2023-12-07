@@ -1,0 +1,94 @@
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\appsettings.Development.json
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\appsettings.json
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.exe
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.deps.json
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.runtimeconfig.json
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.dll
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.pdb
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\wec api\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfo.cs
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.build.json
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.development.json
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\scopedcss\bundle\PizzaShop-Ora.styles.css
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CopyComplete
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.dll
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\refint\PizzaShop-Ora.dll
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.pdb
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.genruntimeconfig.cache
+D:\שנה ב\wec api\PizzaShop-Ora\obj\Debug\net6.0\ref\PizzaShop-Ora.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\appsettings.Development.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\appsettings.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.exe
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.deps.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.runtimeconfig.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.pdb
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.AssemblyReference.cache
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.GeneratedMSBuildEditorConfig.editorconfig
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfoInputs.cache
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfo.cs
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CoreCompileInputs.cache
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cs
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cache
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.build.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.development.json
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\scopedcss\bundle\PizzaShop-Ora.styles.css
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CopyComplete
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\refint\PizzaShop-Ora.dll
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.pdb
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.genruntimeconfig.cache
+H:\הגשה web-api אורה טולדנו\PizzaShop-Ora\obj\Debug\net6.0\ref\PizzaShop-Ora.dll
+H:\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.dll
+H:\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\refint\PizzaShop-Ora.dll
+H:\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\appsettings.Development.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\appsettings.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.exe
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.deps.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.runtimeconfig.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\interfacesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\modelsLib.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\servicesLib.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\servicesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\modelsLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\interfacesLib.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.AssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.build.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\staticwebassets.development.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\scopedcss\bundle\PizzaShop-Ora.styles.css
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.csproj.CopyComplete
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\refint\PizzaShop-Ora.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\PizzaShop-Ora.genruntimeconfig.cache
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\obj\Debug\net6.0\ref\PizzaShop-Ora.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\PizzaShop-Ora.staticwebassets.runtime.json
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\FileService.dll
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\FileService.pdb
+D:\שנה ב\wec api\MyProject-Ora\PizzaShop-Ora\bin\Debug\net6.0\files\myFile.json
