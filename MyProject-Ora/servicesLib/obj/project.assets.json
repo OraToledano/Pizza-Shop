@@ -68,11 +68,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\שנה ב\\wec api\\MyProject-Ora\\servicesLib\\servicesLib.csproj",
+      "projectUniqueName": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\servicesLib\\servicesLib.csproj",
       "projectName": "servicesLib",
-      "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\servicesLib\\servicesLib.csproj",
+      "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\servicesLib\\servicesLib.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\servicesLib\\obj\\",
+      "outputPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\servicesLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\FileService\\FileService.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\FileService\\FileService.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\FileService\\FileService.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\FileService\\FileService.csproj"
             },
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj"
             },
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\modelsLib\\modelsLib.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\modelsLib\\modelsLib.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\modelsLib\\modelsLib.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\modelsLib\\modelsLib.csproj"
             }
           }
         }

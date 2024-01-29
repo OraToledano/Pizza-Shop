@@ -16,6 +16,9 @@
     <ProjectReference Include="..\modelsLib\modelsLib.csproj" />
     <ProjectReference Include="..\interfacesLib\interfacesLib.csproj" />
     <ProjectReference Include="..\FileService\FileService.csproj" />
+    <ProjectReference Include="..\LogService\LogService.csproj" />
+    <!-- <ProjectReference Include="..\FileService\FileService.csproj" /> -->
+    
   </ItemGroup>
 
   

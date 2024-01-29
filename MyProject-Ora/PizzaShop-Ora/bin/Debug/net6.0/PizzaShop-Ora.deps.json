@@ -9,6 +9,7 @@
       "PizzaShop-Ora/1.0.0": {
         "dependencies": {
           "FileService": "1.0.0",
+          "LogService": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "interfacesLib": "1.0.0",
           "modelsLib": "1.0.0",
@@ -76,6 +77,11 @@
         },
         "runtime": {
           "interfacesLib.dll": {}
+        }
+      },
+      "LogService/1.0.0": {
+        "runtime": {
+          "LogService.dll": {}
         }
       },
       "modelsLib/1.0.0": {
@@ -149,6 +155,11 @@
       "sha512": ""
     },
     "interfacesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogService/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

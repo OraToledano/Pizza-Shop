@@ -1,1 +1,1 @@
- [{"id":1,"name":"tomato","price":29.99,"gluten":true},{"id":2,"name":"olive","price":69,"gluten":false}]
+ [{"id":1,"name":"ora","price":34.55,"gluten":false},{"id":2,"name":"olive","price":69,"gluten":false},{"id":0,"name":"onion","price":34.67,"gluten":false},{"id":1,"name":"cheese","price":55.99,"gluten":false}]

@@ -1,6 +1,12 @@
 using interfacesLib;
 using servicesLib;
 using FileService;
+using Extensions;
+using LogServices;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
+using Microsoft.OpenApi.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +21,7 @@ builder.Services.AddSingleton<IPizzaShopServices,PizzaShopServices>();
 builder.Services.AddTransient<IOrderPizza,OrderPizzaService>();
 builder.Services.AddScoped<IWorkers,WorkersService>();
 builder.Services.AddSingleton<Ifile,myFile>();
+builder.Services.AddSingleton<Ilog,myLog>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -32,6 +39,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseActionLog();
 
 app.Run();
-

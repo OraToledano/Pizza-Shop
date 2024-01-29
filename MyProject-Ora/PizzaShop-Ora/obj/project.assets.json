@@ -96,6 +96,16 @@
           "bin/placeholder/interfacesLib.dll": {}
         }
       },
+      "LogService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LogService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogService.dll": {}
+        }
+      },
       "modelsLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -472,6 +482,11 @@
       "path": "../interfacesLib/interfacesLib.csproj",
       "msbuildProject": "../interfacesLib/interfacesLib.csproj"
     },
+    "LogService/1.0.0": {
+      "type": "project",
+      "path": "../LogService/LogService.csproj",
+      "msbuildProject": "../LogService/LogService.csproj"
+    },
     "modelsLib/1.0.0": {
       "type": "project",
       "path": "../modelsLib/modelsLib.csproj",
@@ -486,6 +501,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "FileService >= 1.0.0",
+      "LogService >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0",
       "interfacesLib >= 1.0.0",
       "modelsLib >= 1.0.0",
@@ -499,11 +515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\שנה ב\\wec api\\MyProject-Ora\\PizzaShop-Ora\\PizzaShop-Ora.csproj",
+      "projectUniqueName": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\PizzaShop-Ora\\PizzaShop-Ora.csproj",
       "projectName": "PizzaShop-Ora",
-      "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\PizzaShop-Ora\\PizzaShop-Ora.csproj",
+      "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\PizzaShop-Ora\\PizzaShop-Ora.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\PizzaShop-Ora\\obj\\",
+      "outputPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\PizzaShop-Ora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -524,17 +540,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\FileService\\FileService.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\FileService\\FileService.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\FileService\\FileService.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\FileService\\FileService.csproj"
             },
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\interfacesLib\\interfacesLib.csproj"
             },
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\modelsLib\\modelsLib.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\modelsLib\\modelsLib.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\LogService\\LogService.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\LogService\\LogService.csproj"
             },
-            "D:\\שנה ב\\wec api\\MyProject-Ora\\servicesLib\\servicesLib.csproj": {
-              "projectPath": "D:\\שנה ב\\wec api\\MyProject-Ora\\servicesLib\\servicesLib.csproj"
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\modelsLib\\modelsLib.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\modelsLib\\modelsLib.csproj"
+            },
+            "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\servicesLib\\servicesLib.csproj": {
+              "projectPath": "D:\\שנה ב\\wec api\\PizzaShop\\Pizza-Shop\\MyProject-Ora\\servicesLib\\servicesLib.csproj"
             }
           }
         }

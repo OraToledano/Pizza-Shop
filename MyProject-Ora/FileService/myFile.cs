@@ -23,13 +23,6 @@ namespace FileService;
                 File.WriteAllText(FilePath, $" {message}");// {DateTime.Now}
             }
         }
-        // public void AddItem<T>(T item){
-        //     string json = File.ReadAllText(FilePath);
-        //     var TList = JsonSerializer.Deserialize<List<T>>(json);
-        //     TList.Add(item);
-        //     json=JsonSerializer.Serialize(TList);
-        //    WriteMessage(json);
-        // }
         public List<T> readFromFile<T>()
         {  string json = File.ReadAllText(FilePath);
         Console.WriteLine("json"+json);
@@ -43,9 +36,5 @@ namespace FileService;
                 return TList;
             return default(List<T>);
         }
-        //   public void Update<T>(List<T> list){
-        //    string json=JsonSerializer.Serialize(list);
-        //    WriteMessage(json);
-        //   }
        }
 

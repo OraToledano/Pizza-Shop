@@ -1,0 +1,149 @@
+29/01/2024 17:50:10
+PIZZA SHOP
+costumer:Moshe, number:1
+פיצה אקסטרה	39
+אחלה פיצה	42
+total price:81₪
+thanks for buying in our shop!!
+
+
+29/01/2024 17:52:01
+PIZZA SHOP
+costumer:Moshe, number:1
+פיצה אקסטרה	39
+פיצה מוצרלה ענקית	55
+פיצה יוונית	40
+total price:134₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:04:28
+PIZZA SHOP
+costumer:Moshe, number:5
+פיצוש	45
+פיצה עם זיתים	42
+total price:87₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:06:05
+PIZZA SHOP
+costumer:Sari, number:6
+פיצה משפחתחת אקסטרה		45
+פיצה מגש אישי		20
+פיצה חמה    	32
+פיצה מוצרלה ענקית		55
+פיצה יוונית		40
+total price:192₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:14:03
+PIZZA SHOP
+costumer:Moshe, number:7
+פיצה אקסטרה		39
+פיצה משפחתחת אקסטרה		45
+פיצה מגש אישי		20
+total price:104₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:14:23
+PIZZA SHOP
+costumer:Moshe, number:8
+אחלה פיצה		42
+פיצהלה		23
+total price:65₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:17:28
+PIZZA SHOP
+costumer:Yael, number:9
+פיצה משפחתחת אקסטרה		45
+פיצה מגש אישי		20
+פיצה חמה XL		32
+פיצה מוצרלה ענקית		55
+פיצה יוונית		40
+total price:192₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:30:35
+PIZZA SHOP
+costumer:Moshe, number:26
+פיצה אקסטרה		39
+ll		0
+total price:39₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:31:46
+PIZZA SHOP
+costumer:ijoklm,, number:27
+פיצה משפחתחת אקסטרה		45
+total price:45₪
+thanks for buying in our shop!!
+
+
+29/01/2024 18:44:35
+PIZZA SHOP
+costumer:sari, number:28
+פיצה אקסטרה		39
+פיצה משפחתחת אקסטרה		45
+total price:84₪
+thanks for buying in our shop!!
+
+
+29/01/2024 19:28:07
+PIZZA SHOP
+costumer:Moshe, number:30
+פיצה אקסטרה		39
+פיצה משפחתחת אקסטרה		45
+פיצה מגש אישי		20
+total price:104₪
+thanks for buying in our shop!!
+
+
+29/01/2024 19:29:16
+PIZZA SHOP
+costumer:Moshe, number:31
+פיצה משפחתחת אקסטרה		45
+total price:45₪
+thanks for buying in our shop!!
+
+
+29/01/2024 20:21:42
+PIZZA SHOP
+costumer:Moshe, number:45
+פיצה אקסטרה		39
+total price:39₪
+thanks for buying in our shop!!
+
+
+29/01/2024 20:23:46
+PIZZA SHOP
+costumer:Moshe, number:46
+פיצה אקסטרה		39
+פיצה מוצרלה ענקית		55
+פיצה יוונית		40
+total price:134₪
+thanks for buying in our shop!!
+
+
+29/01/2024 20:30:37
+PIZZA SHOP
+costumer:Moshe, number:51
+oo		0
+total price:0₪
+thanks for buying in our shop!!
+
+
+29/01/2024 20:59:17
+PIZZA SHOP
+costumer:Sari, number:55
+פיצה משפחתחת אקסטרה		45
+total price:45₪
+thanks for buying in our shop!!
+
+

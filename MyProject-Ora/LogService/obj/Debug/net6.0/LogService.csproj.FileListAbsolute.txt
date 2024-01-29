@@ -1,0 +1,12 @@
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\bin\Debug\net6.0\LogService.deps.json
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\bin\Debug\net6.0\LogService.dll
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\bin\Debug\net6.0\LogService.pdb
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.csproj.AssemblyReference.cache
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.AssemblyInfoInputs.cache
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.AssemblyInfo.cs
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.csproj.CoreCompileInputs.cache
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.dll
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\refint\LogService.dll
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\LogService.pdb
+D:\שנה ב\wec api\PizzaShop\Pizza-Shop\MyProject-Ora\LogService\obj\Debug\net6.0\ref\LogService.dll
