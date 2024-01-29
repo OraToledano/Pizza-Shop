@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.IO;
-using FileService;
+// using modelsLib;
+// using FileService;
 
 namespace FileService;
 
@@ -13,24 +14,19 @@ namespace FileService;
         public string FilePath { get ; set ; }
         public myFile()
         {
-            this.FilePath = Path.Combine(Environment.CurrentDirectory,"files", "myFile.json");
-
+            this.FilePath = Path.Combine(Environment.CurrentDirectory, "files", "myFile.json");
         }
         public void WriteMessage(string message)
-        {
+        {  
             if (File.Exists(FilePath))
             {
                 File.WriteAllText(FilePath, $" {message}");// {DateTime.Now}
             }
         }
-        public List<T> readFromFile<T>()
-        {  string json = File.ReadAllText(FilePath);
-        Console.WriteLine("json"+json);
-         if(json==default(string))
-          { return default(List<T>);
-          Console.WriteLine("json"+json);
-          Console.WriteLine("default-string"+default(string));
-          }
+
+        public List<T> ReadFromFile<T>()
+        {
+            string json = File.ReadAllText(FilePath);
             var TList = JsonSerializer.Deserialize<List<T>>(json);
             if (TList != null)
                 return TList;

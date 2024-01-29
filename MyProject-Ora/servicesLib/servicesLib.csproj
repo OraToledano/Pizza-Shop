@@ -3,7 +3,13 @@
   <ItemGroup>
     <ProjectReference Include="..\interfacesLib\interfacesLib.csproj" />
     <ProjectReference Include="..\modelsLib\modelsLib.csproj" />
-    <ProjectReference Include="..\FileService\FileService.csproj" />
+    <ProjectReference Include="..\fileService\FileService.csproj" />
+    <!-- <ProjectReference Include="..\FileService\FileService.csproj" /> -->
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.4" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.9.0" />
   </ItemGroup>
 
   <PropertyGroup>

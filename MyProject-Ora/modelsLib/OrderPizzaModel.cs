@@ -3,9 +3,10 @@ namespace modelsLib;
 
 public class OrderPizzaobj
 {
-public int id{get;set;}
-public string? costumerName{get;set;}
+public int CostumerId{get;set;}
+public string? CostumerName{get;set;}
 public double TotalPrice{get;set;}
 public List<PizzaShopObj>? ListP {get;set;}
+public CreditCard CreditCardDetails{get;set;}
 
 }

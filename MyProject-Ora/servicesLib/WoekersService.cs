@@ -1,39 +1,41 @@
 
  using modelsLib;
  using interfacesLib;
-
-
+using FileService;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 namespace servicesLib;
 
 public  class WorkersService :IWorkers
 {
-    static List<workerobj> workers {get;}
 
- public DateTime createDate{get;set;}
-
-    static WorkersService()
+      private IWorker FileService{get;set;}
+   
+    public WorkersService(IWorker _fileService)
     {
-      workers=new List<workerobj>{
-        new workerobj {id=0,name="avi",salary=7000,phone="0555569874"},
-       new workerobj {id=1,name="eli",salary=5500,phone="0555789432"},
-        new workerobj {id=2,name="ari",salary=5900,phone="0553697845"},
-      };
+      this.FileService=_fileService;
     }
-
     public List<workerobj> Get()
     {
-      return workers;
+       return FileService.ReadFromFile<workerobj>(); 
     }
-    
     public  void Put(workerobj worker)
     {   
-        var index=workers.FindIndex(p=>p.id==worker.id);
+      List<workerobj> workers=FileService.ReadFromFile<workerobj>();
+        var index=workers.FindIndex(p=>p.Id==worker.Id);
         workers[index]=worker;
+        string json=JsonSerializer.Serialize(workers);
+        FileService.WriteMessage(json);
+    } 
+    public  void Post(workerobj worker)
+    {   
+      List<workerobj> workers=FileService.ReadFromFile<workerobj>();
+        // var index=workers.FindIndex(p=>p.Id==worker.Id);
+        var index=(workers.Last().Id)+1;
+        worker.Id=index;
+         workers.Add(worker);
+        string json=JsonSerializer.Serialize(workers);
+        FileService.WriteMessage(json);
     }
     
-    
-
-
-
 }
-

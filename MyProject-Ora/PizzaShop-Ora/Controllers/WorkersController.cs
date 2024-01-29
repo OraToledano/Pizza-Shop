@@ -1,31 +1,40 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Security.Claims;
+using System.Text;
 using modelsLib;
 using interfacesLib;
 
 namespace Workers.Controllers;
-
-
-
 [ApiController]
 [Route("[controller]")]
+[Authorize(Policy = "Admin")]
 public class WorkersController : ControllerBase
 {
+    private readonly IWorkers worker;
     public WorkersController(IWorkers _worker)
-    {this.worker=_worker;
-        _worker.createDate=DateTime.Now;
-        Console.WriteLine("from  worker"+_worker.createDate);
+    {
+        this.worker=_worker;
+        // _worker.CreateDate=DateTime.Now;
+        // Console.WriteLine("from  worker "+_worker.CreateDate);
     }   
     
-    private IWorkers worker;
 //Get
-     [HttpGet]
+[HttpGet]
      [Route("get")]
-  public List<workerobj> Get()=>
-  worker.Get();
+     public List<workerobj> Get()=>
+     worker.Get();
 
 //Update
-     [HttpPut]
+[HttpPut]
     [Route("updatePrice/{worker}")]   
-   public void Put(workerobj W)=>
-   worker.Put(W);
-}
+    public void Put([FromBody] workerobj W)=>
+    worker.Put(W);
+    
+[HttpPost]
+[Route("add")]   
+    public void Post([FromBody] workerobj W)=>
+    worker.Post(W);
+}   

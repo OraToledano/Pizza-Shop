@@ -3,8 +3,9 @@ using modelsLib;
 namespace interfacesLib;
 public interface IWorkers
 {
-public  DateTime createDate{get;set;}
+
 List<workerobj> Get();
+void Post(workerobj worker);
 void Put(workerobj worker);
 
   
